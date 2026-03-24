@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Application configuration",
+  "debug": false,
+  "apiUrl": "https://api.example.com",
+  "features": {
+    "auth": true,
+    "logging": false,
+    "analytics": true
+  },
+  "limits": {
+    "maxUploadSize": 10485760,
+    "timeout": 30000
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "theme": "dark",
+  "language": "en",
+  "notifications": {
+    "email": true,
+    "push": false,
+    "sms": false
+  },
+  "privacy": {
+    "showProfile": true,
+    "showActivity": true,
+    "allowTracking": false
+  },
+  "display": {
+    "gridSize": "medium",
+    "animations": true,
+    "compactMode": false
+  }
+}

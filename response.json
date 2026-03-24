@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "message": "Operation completed",
+  "data": {
+    "id": 1,
+    "name": "Example",
+    "timestamp": "2025-01-01T00:00:00Z"
+  },
+  "errors": []
+}
